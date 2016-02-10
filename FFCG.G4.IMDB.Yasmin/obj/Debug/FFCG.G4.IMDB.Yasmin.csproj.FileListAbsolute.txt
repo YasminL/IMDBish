@@ -12,3 +12,5 @@ C:\Dev\FFCG.G4.IMDB.Yasmin\FFCG.G4.IMDB.Yasmin\bin\Debug\nunit.framework.xml
 C:\Dev\FFCG.G4.IMDB.Yasmin\FFCG.G4.IMDB.Yasmin\obj\Debug\FFCG.G4.IMDB.Yasmin.csprojResolveAssemblyReference.cache
 C:\Dev\FFCG.G4.IMDB.Yasmin\FFCG.G4.IMDB.Yasmin\obj\Debug\FFCG.G4.IMDB.Yasmin.dll
 C:\Dev\FFCG.G4.IMDB.Yasmin\FFCG.G4.IMDB.Yasmin\obj\Debug\FFCG.G4.IMDB.Yasmin.pdb
+C:\Dev\FFCG.G4.IMDB.Yasmin\FFCG.G4.IMDB.Yasmin\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\FFCG.G4.IMDB.Yasmin\FFCG.G4.IMDB.Yasmin\bin\Debug\Newtonsoft.Json.xml
