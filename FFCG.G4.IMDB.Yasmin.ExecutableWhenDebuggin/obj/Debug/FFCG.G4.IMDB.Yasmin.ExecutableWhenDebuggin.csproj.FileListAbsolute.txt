@@ -1,8 +1,0 @@
-c:\users\yasmin.lindholm\documents\visual studio 2013\Projects\FFCG.G4.IMDB.Yasmin\FFCG.G4.IMDB.Yasmin.ExecutableWhenDebuggin\bin\Debug\FFCG.G4.IMDB.Yasmin.ExecutableWhenDebuggin.exe.config
-c:\users\yasmin.lindholm\documents\visual studio 2013\Projects\FFCG.G4.IMDB.Yasmin\FFCG.G4.IMDB.Yasmin.ExecutableWhenDebuggin\bin\Debug\FFCG.G4.IMDB.Yasmin.ExecutableWhenDebuggin.exe
-c:\users\yasmin.lindholm\documents\visual studio 2013\Projects\FFCG.G4.IMDB.Yasmin\FFCG.G4.IMDB.Yasmin.ExecutableWhenDebuggin\bin\Debug\FFCG.G4.IMDB.Yasmin.ExecutableWhenDebuggin.pdb
-c:\users\yasmin.lindholm\documents\visual studio 2013\Projects\FFCG.G4.IMDB.Yasmin\FFCG.G4.IMDB.Yasmin.ExecutableWhenDebuggin\bin\Debug\FFCG.G4.IMDB.Yasmin.dll
-c:\users\yasmin.lindholm\documents\visual studio 2013\Projects\FFCG.G4.IMDB.Yasmin\FFCG.G4.IMDB.Yasmin.ExecutableWhenDebuggin\bin\Debug\FFCG.G4.IMDB.Yasmin.pdb
-c:\users\yasmin.lindholm\documents\visual studio 2013\Projects\FFCG.G4.IMDB.Yasmin\FFCG.G4.IMDB.Yasmin.ExecutableWhenDebuggin\obj\Debug\FFCG.G4.IMDB.Yasmin.ExecutableWhenDebuggin.csprojResolveAssemblyReference.cache
-c:\users\yasmin.lindholm\documents\visual studio 2013\Projects\FFCG.G4.IMDB.Yasmin\FFCG.G4.IMDB.Yasmin.ExecutableWhenDebuggin\obj\Debug\FFCG.G4.IMDB.Yasmin.ExecutableWhenDebuggin.exe
-c:\users\yasmin.lindholm\documents\visual studio 2013\Projects\FFCG.G4.IMDB.Yasmin\FFCG.G4.IMDB.Yasmin.ExecutableWhenDebuggin\obj\Debug\FFCG.G4.IMDB.Yasmin.ExecutableWhenDebuggin.pdb
