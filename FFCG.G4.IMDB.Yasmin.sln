@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FFCG.G4.IMDB.Yasmin", "FFCG
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FFCG.G4.IMDB.Yasmin.Tests", "FFCG.G4.IMDB.Yasmin.Tests\FFCG.G4.IMDB.Yasmin.Tests.csproj", "{7317049F-A9E2-4C07-A7C8-28BC81AFA3D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FFCG.G4.IMDB.Yasmin.Api", "FFCG.G4.IMDB.Yasmin.Api\FFCG.G4.IMDB.Yasmin.Api.csproj", "{8A8293B3-34A4-487A-AB72-E8AA772FBBC6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7317049F-A9E2-4C07-A7C8-28BC81AFA3D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7317049F-A9E2-4C07-A7C8-28BC81AFA3D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7317049F-A9E2-4C07-A7C8-28BC81AFA3D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A8293B3-34A4-487A-AB72-E8AA772FBBC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A8293B3-34A4-487A-AB72-E8AA772FBBC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A8293B3-34A4-487A-AB72-E8AA772FBBC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A8293B3-34A4-487A-AB72-E8AA772FBBC6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
